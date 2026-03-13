@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build and test REST endpoints using FastAPI, Pydantic validation, and JSON responses.",
+      "path": "assignments/rest-apis-fastapi",
+      "dueDate": "2026-03-20"
     }
   ]
 }
