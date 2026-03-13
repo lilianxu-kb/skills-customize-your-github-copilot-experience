@@ -2,14 +2,14 @@
 
 ## 🎯 Objective
 
-[Brief description of what the student will build or accomplish in this assignment]
+[Write 1-2 sentences about what students will build and the key skills they will practice.]
 
 ## 📝 Tasks
 
-### 🛠️	[Task 1 Title]
+### 🛠️ [Task 1 Title]
 
 #### Description
-[Description what needs to be done by the student for this task]
+[Clearly explain what students need to do for this task.]
 
 #### Requirements
 Completed program should:
@@ -19,10 +19,10 @@ Completed program should:
 - [Requirement 3]
 
 
-### 🛠️	[Task 2 Title]
+### 🛠️ [Task 2 Title]
 
 #### Description
-[Description what needs to be done by the student for this task]
+[Clearly explain what students need to do for this task.]
 
 #### Requirements
 Completed program should:
